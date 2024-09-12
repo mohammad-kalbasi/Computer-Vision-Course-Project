@@ -4,7 +4,7 @@
  ## Results
 
 ### Video 1: Sample input
-![Sample input](images/gif1.gif)
+![Sample input](Videos/input.gif)
 
 ### Video 2: Sample output
-![Sample output](images/gif2.gif)
+![Sample output](Videos/output.gif)
