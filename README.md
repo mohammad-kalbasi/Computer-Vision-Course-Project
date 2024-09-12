@@ -3,8 +3,8 @@
 
  ## Results
 
-### Video 1: Agent Solving Problem X
-<video width="600" controls>
-  <source src="https://github.com/mohammad-kalbasi/Computer-Vision-Course-Project/blob/main/Videos/with_optional1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Video 1: Sample input
+![Sample input](images/gif1.gif)
+
+### Video 2: Sample output
+![Sample output](images/gif2.gif)
